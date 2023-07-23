@@ -1,6 +1,6 @@
-# BCSL-22-PYQ-solved (IGNOU)
+# BCSL-21-PYQ-solved (IGNOU)
 
-BCSL-22 PYQ solved problems
+BCSL-21 PYQ solved problems
 
 
 
